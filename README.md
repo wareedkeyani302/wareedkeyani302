@@ -1,6 +1,6 @@
 - 👋 Hi, I’m wareed keyani
 - 👀 I’m interested in coding..
-- 🌱 I’m currently learning React.Js
+- 🌱 I’m currently working on React.Js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach ping me on Whatsapp 03128726385.
 - 😄 Pronouns: ...
